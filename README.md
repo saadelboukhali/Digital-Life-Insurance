@@ -2,8 +2,8 @@
 ### Business Analysis & Systems Architecture Portfolio
 
 **Author:** Saad Elboukhali  
-**Role:** IT Business Analyst  
-**Domain:** InsurTech | Digital Life Insurance | Actuarial Pricing | Automated Underwriting | FinTech Payments | Business Intelligence
+**Role:** Junior Business Analyst  
+
 
 ---
 
